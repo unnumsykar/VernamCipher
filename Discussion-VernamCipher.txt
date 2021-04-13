@@ -1,0 +1,7 @@
+* The key length must match the length of the message.
+
+* You can not encrypt different messages with the same key.
+
+* It is necessary to make the cipher pad in random way and make their characters without repetition.
+
+* After transmitting the encrypted message sender must necessarily destroy the used page. 
